@@ -1,4 +1,4 @@
-# API Tests
+# API-Tests-Sample
 
 Below are Api Test Samples that I made while working on previous projects.
 
